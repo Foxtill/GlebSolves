@@ -1,0 +1,15 @@
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\Inherit.exe
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\Inherit.deps.json
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\Inherit.runtimeconfig.json
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\Inherit.dll
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\ref\Inherit.dll
+C:\Users\Kait2\source\repos\Inherit\Inherit\bin\Debug\net6.0\Inherit.pdb
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.csproj.AssemblyReference.cache
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.AssemblyInfoInputs.cache
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.AssemblyInfo.cs
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.csproj.CoreCompileInputs.cache
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.dll
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\ref\Inherit.dll
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.pdb
+C:\Users\Kait2\source\repos\Inherit\Inherit\obj\Debug\net6.0\Inherit.genruntimeconfig.cache
